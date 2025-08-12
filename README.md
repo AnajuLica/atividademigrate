@@ -34,7 +34,7 @@ Abra o VisualStudio, selecione a pasta criada, abra o terminal e execute os coma
 
 <p>
   
-  Para finalizar, vamo executar as migrações para o banco de dados. 
+  Para finalizar, vamos executar as migrações para o banco de dados. 
 </p>
 
 - O comando a seguir cria uma tabela chamada user_estudantes:
