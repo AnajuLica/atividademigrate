@@ -9,7 +9,8 @@ Abra o VisualStudio, selecione a pasta criada, abra o terminal e execute os coma
 
 
 **Passo 1:**  
-<img width="247" height="14" alt="ex 1" src="https://github.com/user-attachments/assets/59aa98e9-006a-4ad4-b2db-f46e1f93a1b8" />
+
+<img width="511" height="19" alt="naju kkkk" src="https://github.com/user-attachments/assets/91dabcc2-0567-4b5e-977f-92eb07a6a049" />
 
 
 **Passo 2:**  
